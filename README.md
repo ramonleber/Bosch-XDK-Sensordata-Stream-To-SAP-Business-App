@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=h09z2N0MtuQ
 ## 2.Bosch XDK SAP Connector
 
 I used the Bosch XDK to stream sensordata to an SAP business application. 
-In my simple proof of concept it detect if a bin or a container is full and needs to get cleared.
+In my simple proof of concept it detects if a bin or a container is full and needs to get cleared.
 
 To see, how to build the corresponding SAP business application, check my blog post: \
 https://blogs.sap.com/?p=1365029&preview=true
