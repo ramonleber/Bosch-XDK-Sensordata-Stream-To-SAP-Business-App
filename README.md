@@ -1,4 +1,4 @@
-# Bosch-XDK-Sensordata-Stream-To-SAP-Business-App
+# Bosch-XDK-Sensordata-Stream-to-SAP-Business-App
 
 
 ## 1.Bosch XDK Overview
